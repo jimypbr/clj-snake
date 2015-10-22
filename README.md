@@ -1,36 +1,17 @@
-# snake
+# clj-snake
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+An implementation of the game *snake* written in Clojure with a GUI written in [Seesaw](https://github.com/daveray/seesaw). Based on the snake example given in [Programming Clojure](https://pragprog.com/book/shcloj2/programming-clojure), but with some improvements and using Seesaw for the GUI instead of Swing.
 
 ## Usage
 
-FIXME: explanation
+    $ lein compile
+    $ lein uberjar
+    $ java -jar clj-snake-0.1.0.jar [args]
 
-    $ java -jar snake-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 James Briggs
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.

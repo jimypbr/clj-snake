@@ -1,6 +1,5 @@
-(defproject snake "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject clj-snake "0.1.0"
+  :description "clj-snake: Snake in Clojure with Seesaw UI"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]
