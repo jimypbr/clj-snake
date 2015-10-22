@@ -2,6 +2,8 @@
 
 An implementation of the game *snake* written in Clojure with a GUI written in [Seesaw](https://github.com/daveray/seesaw). Based on the snake example given in [Programming Clojure](https://pragprog.com/book/shcloj2/programming-clojure), but with some improvements and using Seesaw for the GUI instead of Swing.
 
+I couldn't find many game examples using Seesaw on the web so I put this up as a demo that some clojure beginners may find instructive.
+
 ## Usage
 
     $ lein compile
